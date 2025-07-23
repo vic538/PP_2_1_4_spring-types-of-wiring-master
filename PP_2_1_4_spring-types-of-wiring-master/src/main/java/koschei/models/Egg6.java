@@ -3,7 +3,7 @@ package koschei.models;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-@Component("egg6Bean")
+@Component
 public class Egg6 {
 
     @Autowired

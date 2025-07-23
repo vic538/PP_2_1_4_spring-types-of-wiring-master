@@ -2,7 +2,7 @@ package koschei.models;
 
 import org.springframework.stereotype.Component;
 
-@Component("needle7Bean")
+@Component
 public class Needle7 {
 
 
